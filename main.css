@@ -1,11 +1,38 @@
-body {
-    color: green;   
-    font-size: xx-large ;
-    font-family: fantasy; 
+header {
+    color: white;
+    font-size: xx-large;
+    font: 400px;
+    text-align: center ;
+    box-sizing: border-box;
+    font-weight:bold;
+    font-style: oblique;
+    margin-top-right-radius: 25px;
+
 }
-section {
-    border: 1px yellow;
-    color: red;
-    margin-top: auto;
+
+article {
+    font-size: large;
+    text-align:center;
+    color: white;
     
+    
+
+    
+}
+
+section {
+    box-sizing: border-box;
+    background-color: white;
+    font-color: black;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+body{
+    background-color: red;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 20px;
 }
