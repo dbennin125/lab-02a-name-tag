@@ -1,0 +1,11 @@
+body {
+    color: green;   
+    font-size: xx-large ;
+    font-family: fantasy; 
+}
+section {
+    border: 1px yellow;
+    color: red;
+    margin-top: auto;
+    
+}
