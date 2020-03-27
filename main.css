@@ -1,4 +1,5 @@
 html {
+<<<<<<< HEAD
     height: 100px;
     width: 200px;
     background-color: seashell;
@@ -6,6 +7,10 @@ html {
     box-shadow: black 20px;
 }
 
+=======
+    background-color: white;
+}
+>>>>>>> c59ec0a594ec011bad8e8637fef98b6bc3b3e510
 header {
     color: white;
     font-size: xx-large;
