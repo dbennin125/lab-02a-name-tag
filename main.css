@@ -1,3 +1,11 @@
+html {
+    height: 100px;
+    width: 200px;
+    background-color: seashell;
+    border-color: blue 10px;
+    box-shadow: black 20px;
+}
+
 header {
     color: white;
     font-size: xx-large;
@@ -6,7 +14,7 @@ header {
     box-sizing: border-box;
     font-weight:bold;
     font-style: oblique;
-    margin-top-right-radius: 25px;
+    margin: auto;
 
 }
 
@@ -14,19 +22,21 @@ article {
     font-size: large;
     text-align:center;
     color: white;
+    margin-right: 100px, 100px;
+    margin-left: 100px, 100px;
     
     
 
     
 }
 
-section {
+p {
     box-sizing: border-box;
     background-color: white;
     font-color: black;
     font-style: italic;
     text-align: center;
-    margin-bottom: 20px;
+    
     
     
 }
@@ -34,5 +44,11 @@ body{
     background-color: red;
     border-style: solid;
     border-color: white;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-right: 100px, 100px;
+    margin-left: 100px, 100px;
+}
+.superButton{
+    text-align: center;
+
 }
